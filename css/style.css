@@ -1,4 +1,12 @@
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 iframe {
   dispay: box;
   margin: 0 auto;
+  width: 800px;
+  height: 400px;
 }
